@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_xz2c.mk
+    $(LOCAL_DIR)/mokee_xz2c.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_xz2c-user \
-    lineage_xz2c-userdebug \
-    lineage_xz2c-eng
+    mokee_xz2c-user \
+    mokee_xz2c-userdebug \
+    mokee_xz2c-eng
